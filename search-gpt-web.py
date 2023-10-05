@@ -1,12 +1,8 @@
-import streamlit as st
-import os
-from dotenv import load_dotenv
 import openai
-from langchain.vectorstores import FAISS
-from langchain.embeddings.openai import OpenAIEmbeddings
+import streamlit as st
 from langchain.document_loaders import PyPDFLoader
-
-load_dotenv()
+from langchain.embeddings.openai import OpenAIEmbeddings
+from langchain.vectorstores import FAISS
 
 # Configuração do Streamlit
 st.set_page_config(
