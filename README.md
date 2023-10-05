@@ -4,7 +4,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/Richardsan1/hackathon-accenture?style=for-the-badge)
 ![Bitbucket open issues](https://img.shields.io/github/issues/Richardsan1/hackathon-accenture?style=for-the-badge)
 
-> Calculadora de polinômios feito em C. Operações suportadas: resolver, somar, subtrair e multiplicar polinômios de até grau 10.
+> Chatbot com interface simples e intuitiva para acessar artigos científicos de forma resumida, mas mantendo o rigor técnicos.
 
 ## 💻 Demonstração
 
